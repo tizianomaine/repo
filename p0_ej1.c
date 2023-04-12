@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-	puts ("Hola Mundo")
-return 0
+	puts ("Hola Mundo");
+return 0;
 }
